@@ -1,6 +1,4 @@
-# Hyperspectral-Image-Inpainting
-
-# Hyperspectral Image Inpainting
+# Hyperspectral-Image-Inpainting (Alogorithm & Software Setup)
 
 ## Purposes
 This is a Python script to inpaint hyperspectral images of size (150,150,183) using a U-Net based architecture.
@@ -217,3 +215,6 @@ The combined loss function used in this script is a linear combination of Mean S
 | total     | 183     | 2181       |0.963         | 0.032     | 10,069,313  |  68    | 0.82  |  no    |
 
 ![Alt Text](https://github.com/Potassium-chromate/Hyperspectral-Image-Inpainting/blob/main/pictures/further%20test/96.3%25.png)
+
+
+# Hyperspectral Image Inpainting (Hardware architecture & Testing Performance)
